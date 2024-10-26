@@ -1,4 +1,4 @@
-package organization;
+package model;
 
 public class PokemonAbilityMap implements java.io.Serializable {
     private Pokemon pokemon;
